@@ -24,7 +24,7 @@
 		<?php if( $p['image'] ) { ?>
 			<li><a href="<?php echo $p['source']; ?>"><?php echo $p['title']; ?></a></li>
 		<?php } ?>
-			<li><a href="<?php echo ASAPH_LINK_PREFIX.'/post/'.$p['id']; ?>"><?php echo date('F j, Y G:i:s', $p['created']); ?></a></li>
+			<li><a href="<?php echo ASAPH_LINK_PREFIX.'post/'.$p['id']; ?>"><?php echo date('F j, Y G:i:s', $p['created']); ?></a></li>
 			<?php if( count($p['tag']) > 0 ) { ?>
 				<li>tag: 
 				<?php foreach ($p['tag'] as $item) { ?>
