@@ -23,8 +23,9 @@
 <p>
 	This 'original' microblog is powered by <a href="http://www.phoboslab.org/projects/asaph">Asaph</a>.<br />
 	dollplayer2501 add some function.<br />
-	 - tag and tag cloud<br />
-	 - add memo field<br />
+	&nbsp;- tag and tag cloud<br />
+	&nbsp;- add memo field<br />
+	This code is <a href="https://github.com/dollplayer2501/asaph_evo">dollplayer2501/asaph_evo - GitHub</a>.
 </p>
 	</div>
 </div>
