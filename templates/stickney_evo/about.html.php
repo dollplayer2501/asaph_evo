@@ -22,10 +22,12 @@
 <h2>about</h2>
 <p>
 	This 'original' microblog is powered by <a href="http://www.phoboslab.org/projects/asaph">Asaph</a>.<br />
-	dollplayer2501 add some function.<br />
+	I, dollplayer2501 adds some function.<br />
 	&nbsp;- tag and tag cloud<br />
 	&nbsp;- add memo field<br />
-	This code is <a href="https://github.com/dollplayer2501/asaph_evo">dollplayer2501/asaph_evo - GitHub</a>.
+	&nbsp;- customize 'stickney' template<br />
+	This code is <a href="https://github.com/dollplayer2501/asaph_evo">dollplayer2501/asaph_evo - GitHub</a>.<br />
+	Next, I want to add search function and tag function at administrator screen.
 </p>
 	</div>
 </div>
