@@ -168,7 +168,9 @@ class Asaph {
 		$post['sourceDomain'] = $urlParts['host'];
 		$post['source'] = htmlspecialchars( $post['source'] );
 		$post['title'] = htmlspecialchars( $post['title'] );
-		$post['memo'] = htmlspecialchars( $post['memo'] );
+		if( isset($post['memo']) ) {
+			$post['memo'] = htmlspecialchars( $post['memo'] );
+		}
 		
 		if (strlen($post['tag']) > 0) {
 			$tags = explode(',', $post['tag']);
